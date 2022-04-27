@@ -46,4 +46,9 @@ button:hover{
 
 }#buttons{
     height: 70%;
+}.scoreboard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
 }
